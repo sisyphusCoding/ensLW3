@@ -112,8 +112,7 @@ const Home: NextPage = () => {
           p-10
           rounded-xl overflow-hidden
           shadow-xl flex items-center justify-center gap-4 bg-zinc-200'>
-
-          '
+          
         <section  
         className='flex flex-col items-start justify-center gap-10 p-4'
           >
@@ -135,7 +134,7 @@ const Home: NextPage = () => {
               </span>
           </h1>
           <h3>
-            It&apos;s an NFT collections for LearnWeb3 Punks
+            Its an NFT collections for LearnWeb3 Punks
           </h3>
 
             {renderButton()}
@@ -148,10 +147,10 @@ const Home: NextPage = () => {
             src={'/learnweb3punks.png'}
             width={200} height={100}
             layout='responsive'
+              alt='heroimage'
             objectFit='cover'
             
             />
-
         </section>
 
 
