@@ -135,7 +135,7 @@ const Home: NextPage = () => {
               </span>
           </h1>
           <h3>
-            It's an NFT collections for LearnWeb3 Punks
+            It&apos;s an NFT collections for LearnWeb3 Punks
           </h3>
 
             {renderButton()}
